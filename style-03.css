@@ -22,7 +22,7 @@ justify-content: start;
   background-color: #f1faee;
   color: #242121;
 
-  /* 5. Use the flex-grow property to make the second box grow to fill the remaining space */
+  /* 5. Use the flex-grow property to make the second box grow to fill the remaining space  ok*/
   flex-grow: 1;
 }
 
